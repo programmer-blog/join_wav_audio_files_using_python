@@ -1,4 +1,4 @@
-# join_wav_audio_files_using_python
+# Join wav audio files using Python
 
 URL: http://programmerblog.net/
 
